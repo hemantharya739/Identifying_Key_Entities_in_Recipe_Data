@@ -18,6 +18,3 @@ By structuring recipe data, this approach opens the door to advanced application
 
 ## Acknowledgements
 UpGrad tutorials on the learning platform
-
-## Contact
-Created by [hemantharya739](https://github.com/hemantharya739) - feel free to contact me!
